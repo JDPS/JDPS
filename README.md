@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JS and a researcher in fluids and heat.
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python as an hobbie and prospect for enhance my research work.
-- 💞️ I’m looking to collaborate on novel concepts.
+- 👋 Hi, I’m @JS, a fluids mechanics and heat transfer researcher.
+- 👀 I’m interested in multiple subjects. Regarding programming and focused on Python.
+- 🌱 I’m currently learning Python as a hobby and prospect to enhance my research work.
+- 💞️ I’m always looking to cooperate on novel concepts.
 - 📫 How to reach me joaosoares@fe.up.pt.
 
 <!---
