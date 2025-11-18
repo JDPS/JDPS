@@ -1,13 +1,20 @@
-# Hi👋 I’m @JS
+# Hi, I'm João Soares 👋
 
-- 👋 Hi, I’m @JS, a fluids mechanics and heat transfer researcher.
-- 👀 I’m interested in multiple subjects, but my major interest and expertise lies on Energy.
-- 🐍 Regarding programming I started learning Python as a hobby and prospect to enhance my research work.
-- 📚 Yet, I end up studing more generic concepts as data structures, OOP, SOLID principles, Architecture.
-- ✨ I am since some time studying and testing PINNs mostly for solving Energy related problems.
-- 📈 AI LLMs are my daily partner for productivity, wich lead to unplaned focus on tune up Agents with different Learning methods and RAG for handling my research data.
-- 💞️ I’m always looking to cooperate on novel concepts.
-- 📫 How to reach me joaosoares@fe.up.pt; joaosoarex@gmail.com
+## About Me
+I'm a researcher specializing in fluid mechanics and heat transfer, with a focus on energy systems (particularly renewable energy technologies).
+
+## Programming Journey
+I started learning Python as a hobby to enhance my research work. This journey led me to explore broader software development concepts like data structures, object-oriented programming (OOP), SOLID principles, and software architecture, which I now apply to improve my coding practices.
+
+## Machine Learning & AI in Research
+For some time now, I have been integrating machine learning into my research. In particular, I'm exploring Physics-Informed Neural Networks (PINNs) as a novel approach to solving energy-related problems. I also use AI language models (LLMs) daily to boost my productivity. This has sparked an interest in fine-tuning AI agents using various learning methods and employing retrieval-augmented generation (RAG) techniques to better manage and analyze my research data.
+
+## Collaboration & Contact
+
+I'm always open to collaborating on novel and innovative projects. Feel free to reach out via email (📫 joaosoares@fe.up.pt or joaosoarex@gmail.com) if you'd like to discuss ideas or work together. You can also learn more about my research contributions on my ORCID profile.
+
+## 
+
 
   
 
